@@ -1,0 +1,1 @@
+document.write("lo que sea");
