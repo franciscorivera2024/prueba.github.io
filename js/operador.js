@@ -1,4 +1,4 @@
-var firstnumber, secondnumber, result;
+var firstnumber, secondnumber;
 firstnumber= promt("introduzca valor en grados celsius");
 firsnumber= parsefloat(firstnumber);
 secondnumber= 9/5*firsnumber+32;
